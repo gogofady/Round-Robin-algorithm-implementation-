@@ -12,4 +12,4 @@ One of the most commonly used technique in CPU scheduling as a core.
 It is preemptive as processes are assigned CPU only for a fixed slice of time at most.
 The disadvantage of it is more overhead of context switching.
 
-![My_Image)(RRphoto.png)
+![My_Image](RRphoto.png)
